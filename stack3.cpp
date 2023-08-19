@@ -1,4 +1,5 @@
-/* infix to postfix expression */#include<stdio.h>
+/* infix to postfix expression */
+#include<stdio.h>
 #include<ctype.h>
 #include<string.h>
 #define MAX 100
