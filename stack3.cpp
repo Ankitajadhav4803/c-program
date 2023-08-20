@@ -1,4 +1,4 @@
-/* infix to postfix expression */
+/* c program for infix to postfix expression */
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
